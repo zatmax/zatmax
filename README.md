@@ -1,4 +1,5 @@
-## Hi there 👋
+## I am a final year computer science student
+👋
 
 <!--
 **zatmax/zatmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
