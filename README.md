@@ -15,7 +15,6 @@ Le projet utilise principalement les langages et bibliothèques suivants : -->
 - ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) **Unreal Engine Blueprint** : Système de script visuel utilisé pour le développement de jeux avec Unreal Engine.
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C** : Langage de base pour la programmation système et le développement d'applications.
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** : Utilisé pour le développement d'applications multiplateformes et d'applications web.
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Langage de balisage utilisé pour la structuration des pages web.
 
 Librairies :
 
@@ -23,6 +22,10 @@ Librairies :
 - ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) **TensorFlow** : Framework de machine learning pour la création et le déploiement de modèles d'apprentissage profond.
 - **scikit-learn (sklearn)** : Bibliothèque pour l'apprentissage automatique en Python, offrant des outils simples et efficaces pour l'analyse de données.
 - **PyTorch** : Framework de machine learning utilisé pour le développement d'applications d'apprentissage profond, favorisant la flexibilité et la rapidité d'expérimentation.
+
+Web :
+
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Langage de balisage utilisé pour la structuration des pages web.
 
 <!--
 ### Répartition des langages
