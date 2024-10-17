@@ -25,7 +25,10 @@ Librairies :
 
 Web :
 
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Langage de balisage utilisé pour la structuration des pages web.
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Utilisé pour la structure de contenu sur le web.
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS** : Utilisé pour le style et la mise en page des pages web.
+- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) **Angular** : Framework JavaScript pour le développement d'applications web dynamiques.
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript** : Superset de JavaScript qui apporte des types statiques, idéal pour les grandes applications.
 
 <!--
 ### Répartition des langages
