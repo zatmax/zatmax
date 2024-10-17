@@ -14,8 +14,8 @@ Le projet utilise principalement les langages et bibliothèques suivants : -->
 - ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) **C#** : Utilisé pour le développement d'applications Windows et de jeux vidéo, notamment avec Unity.
 - ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) **Unreal Engine Blueprint** : Système de script visuel utilisé pour le développement de jeux avec Unreal Engine.
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C** : Langage de base pour la programmation système et le développement d'applications.
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Langage de balisage utilisé pour la structuration des pages web.
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** : Utilisé pour le développement d'applications multiplateformes et d'applications web.
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) **HTML** : Langage de balisage utilisé pour la structuration des pages web.
 
 Librairies :
 
