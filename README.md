@@ -1,6 +1,4 @@
 ## I am a final year computer science student
-
-## Langages utilisés
 <!--
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue?style=for-the-badge&logo=numpy)
