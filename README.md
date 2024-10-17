@@ -21,8 +21,8 @@ Librairies :
 
 - ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) **NumPy** : Bibliothèque essentielle pour les opérations mathématiques complexes et la manipulation de tableaux numériques.
 - ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) **TensorFlow** : Framework de machine learning pour la création et le déploiement de modèles d'apprentissage profond.
-- ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png) **scikit-learn (sklearn)** : Bibliothèque pour l'apprentissage automatique en Python, offrant des outils simples et efficaces pour l'analyse de données.
-- ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) **PyTorch** : Framework de machine learning utilisé pour le développement d'applications d'apprentissage profond, favorisant la flexibilité et la rapidité d'expérimentation.
+- **scikit-learn (sklearn)** : Bibliothèque pour l'apprentissage automatique en Python, offrant des outils simples et efficaces pour l'analyse de données.
+- **PyTorch** : Framework de machine learning utilisé pour le développement d'applications d'apprentissage profond, favorisant la flexibilité et la rapidité d'expérimentation.
 
 <!--
 ### Répartition des langages
